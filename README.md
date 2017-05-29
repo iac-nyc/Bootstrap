@@ -6,13 +6,13 @@ To download Bootstrap:
  
 Go to the Bootstrap website http://getbootstrap.com and click on the download button to download the zip file containing Bootstrap files.
  
-Set up <head>:
+Set up the following meta data in the  head:
  
-<meta charset="utf-8">
+<charset="utf-8">
  
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<http-equiv="X-UA-Compatible" content="IE=edge">
     
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<name="viewport" content="width=device-width, initial-scale=1">
  
  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
  
@@ -20,9 +20,9 @@ Add the following code in the head after the title. This will include Bootstrap 
  
  <!-- Bootstrap -->
    
- <link href="css/bootstrap.min.css" rel="stylesheet">
+ <href="css/bootstrap.min.css" rel="stylesheet">
   
-  <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+ < href="css/bootstrap-theme.min.css" rel="stylesheet">
   
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   
