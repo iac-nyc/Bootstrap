@@ -1,7 +1,7 @@
 # Bootstrap
 Responsive design using Bootstrap
 
-->Setting up the Bootstrap 
+Setting up the Bootstrap 
 To download Bootstrap:
  
 Go to the Bootstrap website http://getbootstrap.com and click on the download button to download the zip file containing Bootstrap files.
@@ -34,7 +34,7 @@ Add the following code in the head after the title. This will include Bootstrap 
    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
  
- The default Bootstrap typography sets the font to Helvetica Neue and selects the appropriate font size based on the choice of the heading style and paragraph style for the content.
+The default Bootstrap typography sets the font to Helvetica Neue and selects the appropriate font size based on the choice of the heading style and paragraph style for the content.
 At the bottom of the page, just before the end of the body tag, add the following code to include the JQuery library and Bootstrap's Javascript plugins. Bootstrap by default uses the JQuery Javascript library for its Javascript plugins. Hence the need to include JQuery library in the web page.
  
  
