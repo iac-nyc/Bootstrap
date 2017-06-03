@@ -1,5 +1,5 @@
 # Bootstrap
-Responsive design using Bootstrap
+Mobile first/Responsive design using Bootstrap front-end web UI framework.
 
 Setting up the Bootstrap 
 To download Bootstrap:
